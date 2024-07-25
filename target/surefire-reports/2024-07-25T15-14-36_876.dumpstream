@@ -1,0 +1,5 @@
+# Created at 2024-07-25T15:14:37.121
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Documentatie\Vakantiejob\HLL 2024\Project HLL\Git\hersenletsel-liga-officieel\Project\Fundraising\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
